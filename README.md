@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my github.
 
-### Haven't decided what to show yet but welcome!
-
+### Focusing On:
+  - Model Compression ( GPT / Transformers )
+  - Inference Acceleration
+  - Transportation Systems ( Especially Bus )
+  - Developing small but useful tools
+  
 <!--
 **Busdriver26/Busdriver26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
